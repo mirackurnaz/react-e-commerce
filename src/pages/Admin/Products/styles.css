@@ -1,0 +1,15 @@
+.admin-menu{
+    display: flex;
+    padding: 0;
+    margin: 0;
+    background-color: tomato;
+    color: white;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+.admin-menu li{
+    justify-content: center;
+    padding: 0 25px;
+}

@@ -1,0 +1,35 @@
+.nav{
+    padding:20px;
+    display: flex;
+    justify-content: space-between;
+    
+    line-height: 4px;
+    align-items: center;
+    background-color:#F5F5F5 ;
+}
+.nav .left {
+    display: flex;
+    margin-left: 15px;
+}
+.nav .left .menu {
+    display: flex;
+    margin-left: 60px;
+}
+
+.nav .left .logo a img {
+    display: flex;
+    height: 80px;
+}
+.nav .right a:first-child{
+    margin-right: 5px;
+}
+.nav .right a{
+    justify-content: end;
+}
+
+
+
+
+
+
+
